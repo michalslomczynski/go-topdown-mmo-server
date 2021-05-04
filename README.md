@@ -1,7 +1,8 @@
 # go-topdown-mmo-server
 
-Run with `go run server.go`
+#### Run
+`go run server.go`
 
-TODO:
+#### TODO
   - project description
-  - dockerfile
+  - Docker
